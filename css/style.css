@@ -123,8 +123,21 @@ css for about us also for pricing
     margin-top: .5%;
     
 }
-.fixforsize{
-    width: 75%;
+.me{
+    width:40%;
+     margin-left:10% ;
+    margin-right: 10%;
+    margin-bottom:1% ;
+    margin-top:1%;
+    padding:.5;
+}
+.stevie{
+    width: 40%;
+    margin-left:10% ;
+    margin-right: 10%;
+    margin-bottom:11% ;
+    margin-top:1%;
+    padding:.5;
 }
 
 
